@@ -5,10 +5,29 @@
     <link>https://atmosmps.github.io/en/tags/</link>
     <description>Recent content in Tags on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo</title>
+      <link>https://atmosmps.github.io/en/tags/hugo/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i18n</title>
+      <link>https://atmosmps.github.io/en/tags/i18n/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/en/tags/i18n/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

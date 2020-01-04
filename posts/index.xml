@@ -5,7 +5,7 @@
     <link>https://atmosmps.github.io/posts/</link>
     <description>Recent content in Posts on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pt-br</language>
     <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,15 +22,6 @@
 It&#39;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
 This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
-    </item>
-    
-    <item>
-      <title>Dummy</title>
-      <link>https://atmosmps.github.io/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
     </item>
     
     <item>

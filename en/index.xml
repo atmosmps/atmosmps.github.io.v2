@@ -5,10 +5,31 @@
     <link>https://atmosmps.github.io/en/</link>
     <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dummy</title>
+      <link>https://atmosmps.github.io/en/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/en/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://atmosmps.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/en/about/</guid>
+      <description>&amp;ldquo;I think you know what the problem is just as well as I do.&amp;rdquo; HAL 9000
+ Hi! My name is Atmos Maciel.
+About Me I am a Database Administrator at Ceuma Group, Co-founder / CTO of Impacto Maker and Full Stack Developer. Bachelor of Computer Science from Pitágoras College, Digital Games Programming Technician from UEMANET, member of the PHP Maranhão community and other State Technology communities. &amp;ldquo;Flirting&amp;rdquo; with DevOps, Machine Learning, Data Science and Digital Game Development.</description>
+    </item>
     
   </channel>
 </rss>
