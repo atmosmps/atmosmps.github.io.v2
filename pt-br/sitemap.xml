@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://atmosmps.github.io/pt-br/</loc>
-    <priority>0</priority>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/pt-br/categories/blog/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/pt-br/categories/</loc>
-    <priority>0</priority>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +38,52 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/pt-br/posts/dummy/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/pt-br/tags/hugo/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/pt-br/tags/i18n/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/pt-br/posts/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/pt-br/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/pt-br/tags/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/pt-br/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/pt-br/series/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,21 +107,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://atmosmps.github.io/pt-br/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/pt-br/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/pt-br/tags/"
                 />
   </url>
   
