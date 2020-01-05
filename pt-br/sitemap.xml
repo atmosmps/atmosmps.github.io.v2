@@ -38,7 +38,17 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/posts/hello-world-2020/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +59,11 @@
   
   <url>
     <loc>https://atmosmps.github.io/posts/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/scripts/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   

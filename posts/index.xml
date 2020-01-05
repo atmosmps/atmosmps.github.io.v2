@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Configure Proxy Settings in Ubuntu and Fedora</title>
+      <link>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</guid>
+      <description>Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.
+Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;ldquo;googlando&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>Hello World 2020</title>
       <link>https://atmosmps.github.io/posts/hello-world-2020/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
