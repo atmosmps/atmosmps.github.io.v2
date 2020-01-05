@@ -6,38 +6,18 @@
     <description>Recent content on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Render LaTeX using KaTeX</title>
-      <link>https://atmosmps.github.io/posts/render-latex-using-katex/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Hello World 2020</title>
+      <link>https://atmosmps.github.io/posts/hello-world-2020/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/posts/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
-It&#39;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
-    </item>
-    
-    <item>
-      <title>Theme Demo</title>
-      <link>https://atmosmps.github.io/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>https://atmosmps.github.io/posts/hello-world-2020/</guid>
+      <description>Eu me lembro de 2012, na época em que ainda se usava bastante o termo &amp;ldquo;blogosfera&amp;rdquo;, para referenciar o forte ecossitema de blogs na web, que naquela época era extraordinariamente forte no Brasil, com nomes de referencia como o Blosque e outros que infelizmente não lembro mais. Eu estava lá. Na verdade foi nessa época em que me interessei mais pela área de informática, escrevendo pesquisando, editando HTML, CSS e Javascript(que eu não fazia a menor ideia do que era).</description>
     </item>
     
     <item>

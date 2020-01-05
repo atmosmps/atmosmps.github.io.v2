@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://atmosmps.github.io/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,57 +18,13 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/series/hugo/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/posts/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/posts/render-latex-using-katex/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/series/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/series/theme/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://atmosmps.github.io/categories/blog/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/categories/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,6 +34,50 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://atmosmps.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/hello-world-2020/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/personal/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/series/"
                 />
   </url>
   
@@ -92,20 +92,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://atmosmps.github.io/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
                 />
   </url>
   

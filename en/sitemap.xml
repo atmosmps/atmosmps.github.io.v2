@@ -3,86 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atmosmps.github.io/en/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/categories/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/tags/hugo/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/tags/i18n/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/posts/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/en/tags/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,6 +17,34 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -107,6 +55,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://atmosmps.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/tags/"
                 />
   </url>
   
