@@ -6,13 +6,22 @@
     <description>Recent content in scripts on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/scripts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Configure Proxy Settings in Ubuntu and Fedora</title>
+      <title>Instalando o PHP em distribuições Linux baseadas em Debian</title>
+      <link>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</guid>
+      <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
+    </item>
+    
+    <item>
+      <title>Definindo configurações de proxy no Ubuntu e Fedora</title>
       <link>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://atmosmps.github.io/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/blog/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/categories/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,38 +33,43 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/posts/hello-world-2020/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/personal/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/php/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/php/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/posts/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/categories/scripts/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,6 +80,21 @@
                 hreflang="pt-br"
                 href="https://atmosmps.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/blog/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/hello-world-2020/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

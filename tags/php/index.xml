@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me-to-me on Atmos Maciel</title>
-    <link>https://atmosmps.github.io/tags/me-to-me/</link>
-    <description>Recent content in me-to-me on Atmos Maciel</description>
+    <title>php on Atmos Maciel</title>
+    <link>https://atmosmps.github.io/tags/php/</link>
+    <description>Recent content in php on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atmosmps.github.io/tags/me-to-me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosmps.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</guid>
       <description>As distros que eu uso atualmente são o Fedora e o Ubuntu, o Fedora me deixa muito feliz com a forma como ele gerencia suas dependências de forma organizada e inteligente. É uma distro muito boa pra se trabalhar com desenvolvimento, as configurações são simples, o sitema não é cheio de coisas mirabolantes que só servem pra atrapalhar e você tem autonomia pra bagunçar bastante o S.O e errar pra aprender.</description>
-    </item>
-    
-    <item>
-      <title>Definindo configurações de proxy no Ubuntu e Fedora</title>
-      <link>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</guid>
-      <description>Ainda hoje, de vez em quando eu preciso fazer algumas configurações chatas para trabalhar, uma delas é ter que configurar o proxy no SO que eu estiver utilizando, ou ainda pior, ter que configurar o proxy em Imagens Docker para que elas também possam acessar a internet no caso de precisarem baixar dependencias por exemplo.
-Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;ldquo;googlando&amp;rdquo;.</description>
     </item>
     
   </channel>

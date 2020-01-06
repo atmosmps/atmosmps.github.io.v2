@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>php</title>
+      <link>https://atmosmps.github.io/categories/php/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripts</title>
+      <link>https://atmosmps.github.io/categories/scripts/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/scripts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blog</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://atmosmps.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scripts</title>
-      <link>https://atmosmps.github.io/categories/scripts/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/categories/scripts/</guid>
       <description></description>
     </item>
     
