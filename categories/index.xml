@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>blog</title>
+      <link>https://atmosmps.github.io/categories/blog/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configs</title>
+      <link>https://atmosmps.github.io/categories/configs/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/configs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://atmosmps.github.io/categories/git/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>php</title>
       <link>https://atmosmps.github.io/categories/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
@@ -21,20 +48,11 @@
     </item>
     
     <item>
-      <title>scripts</title>
-      <link>https://atmosmps.github.io/categories/scripts/</link>
+      <title>python</title>
+      <link>https://atmosmps.github.io/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/scripts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://atmosmps.github.io/categories/blog/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/categories/blog/</guid>
+      <guid>https://atmosmps.github.io/categories/python/</guid>
       <description></description>
     </item>
     

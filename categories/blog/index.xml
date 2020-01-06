@@ -6,10 +6,20 @@
     <description>Recent content in blog on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Remote Work Guide - São Luis - MA</title>
+      <link>https://atmosmps.github.io/posts/remote-work-guide/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/remote-work-guide/</guid>
+      <description>Se você é de São Luís - MA, trabalha com desenvolvimento/empreendedorismo e quer um dia trabalhar remoto, ou já trabalha, eu lembrei que tem uma galerinha massa, mantendo um gist legal pra ajudar nisso:https://t.co/JipIdL8FfI
+&amp;mdash; Atmos Maciel (@atmosmps) January 6, 2020  É isto.</description>
+    </item>
     
     <item>
       <title>Hello World 2020</title>
