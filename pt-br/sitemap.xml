@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/categories/configs/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -48,17 +53,27 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/git/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/categories/git/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/linux/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/linux/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/php/</loc>
+    <loc>https://atmosmps.github.io/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/php/</loc>
+    <loc>https://atmosmps.github.io/categories/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   

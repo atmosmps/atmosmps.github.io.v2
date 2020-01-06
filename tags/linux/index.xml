@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Atmos Maciel</title>
+    <link>https://atmosmps.github.io/tags/linux/</link>
+    <description>Recent content in linux on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://atmosmps.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como instalar o Spotify em algumas distros Linux</title>
+      <link>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</guid>
+      <description>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o Spotify. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)
+Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
