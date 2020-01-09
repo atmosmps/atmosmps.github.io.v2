@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>configs</title>
+      <link>https://atmosmps.github.io/categories/configs/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/configs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://atmosmps.github.io/categories/linux/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blog</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>configs</title>
-      <link>https://atmosmps.github.io/categories/configs/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/categories/configs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>git</title>
       <link>https://atmosmps.github.io/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://atmosmps.github.io/categories/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://atmosmps.github.io/categories/linux/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosmps.github.io/categories/linux/</guid>
       <description></description>
     </item>
     

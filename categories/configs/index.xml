@@ -6,10 +6,21 @@
     <description>Recent content in configs on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/configs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Verificando se determinada porta está em uso no seu sistema operacional</title>
+      <link>https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</guid>
+      <description>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.
+Já passou por aquela situação de ter vários containers docker startados em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os built-in web servers do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?
+Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela.</description>
+    </item>
     
     <item>
       <title>Como instalar o Spotify em algumas distros Linux</title>
@@ -40,11 +51,11 @@ Para instalar no Debian/Ubuntu O próprio Spotify diz como: https://www.</descri
     </item>
     
     <item>
-      <title>Meu guia definitivo ambientacao em python</title>
-      <link>https://atmosmps.github.io/posts/meu-guia-definitivo-de-ambientacao-python/</link>
+      <title>Meu guia definitivo ambientação em python</title>
+      <link>https://atmosmps.github.io/posts/my-definitive-python-setting-guide/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/posts/meu-guia-definitivo-de-ambientacao-python/</guid>
+      <guid>https://atmosmps.github.io/posts/my-definitive-python-setting-guide/</guid>
       <description>Ainda na minha saga de tentar deixar documentado coisas que uma hora ou outra sempre preciso fazer, eu lembrei que tenho um gist com &amp;ldquo;Meu guia definitivo de ambientação em python&amp;rdquo;. Ele foi bastante baseado no excelente artigo do Henrique Bastos, na verdade só o que eu fiz mesmo foi remover coisas que no meu caso, eu não utilizo. Para acessar basta clicar aqui.
 É isto.</description>
     </item>

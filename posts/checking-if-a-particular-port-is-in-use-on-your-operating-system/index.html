@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Atmos Maciel">
+    <meta name="description" content="I think you know what the problem is just as well as I do.">
+    <meta name="keywords" content="technology, developer, science, books, music, astronomy, runnig, fight">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Verificando se determinada porta está em uso no seu sistema operacional"/>
+<meta name="twitter:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..."/>
+
+    <meta property="og:title" content="Verificando se determinada porta está em uso no seu sistema operacional" />
+<meta property="og:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/" />
+<meta property="article:published_time" content="2020-01-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-01-09T00:00:00+00:00" /><meta property="og:site_name" content="Atmos Maciel" />
+
+
+    
+      <base href="https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/">
+    
+    <title>
+  Verificando se determinada porta está em uso no seu sistema operacional · Atmos Maciel
+</title>
+
+    
+      <link rel="canonical" href="https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://atmosmps.github.io/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="https://atmosmps.github.io/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+      <link rel="stylesheet" href="https://atmosmps.github.io/css/custom.css" />
+    
+
+    
+    
+    <link rel="icon" type="image/png" href="https://atmosmps.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://atmosmps.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.62.2" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://atmosmps.github.io/">
+      Atmos Maciel
+    </a>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://atmosmps.github.io/about/">Sobre</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://atmosmps.github.io/posts/">Blog</a>
+          </li>
+        
+      
+      
+        
+        
+        
+          
+        
+          
+            
+              <li class="navigation-item menu-separator">
+                <span>|</span>
+              </li>
+              
+            
+            <li class="navigation-item">
+              <a href="https://atmosmps.github.io/en/">English</a>
+            </li>
+          
+        
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Verificando se determinada porta está em uso no seu sistema operacional</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-01-09T00:00:00Z'>
+                January 9, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              2 minutos de leitura
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="https://atmosmps.github.io/categories/configs/">configs</a>
+      <span class="separator">•</span>
+    <a href="https://atmosmps.github.io/categories/linux/">linux</a></div>
+
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="https://atmosmps.github.io/tags/personal/">personal</a>
+      <span class="separator">•</span>
+    <a href="https://atmosmps.github.io/tags/me-to-me/">me-to-me</a>
+      <span class="separator">•</span>
+    <a href="https://atmosmps.github.io/tags/linux/">linux</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        <p><em>Considerações iniciais: as informações contidas neste texto, só funcionam para sistemas baseados no Unix.</em></p>
+<p>Já passou por aquela situação de ter vários containers docker <em>startados</em> em portas diferentes, aí você tenta subir um novo containar e o terminal joga na sua cara que a porta já está em uso? Ou mesmo os <em>built-in web servers</em> do PHP, Node ou Python, já estão usando portas que vocês gostaria de usar?</p>
+<p>Eu também já passei por isso, há uma forma de saber se a porta já está sendo usada e/ou algumas informações sobre ela. No Linux, basta utilizar o seguinte comando:</p>
+<p><code>lsof -i TCP:PORT</code></p>
+<p>ex: <code>lsof -i TCP:1313</code></p>
+<p>Se porta estiver sendo utilizada o comando irá retornar algumas informações sobre ela. O comando irá retornar uma saída semelhante a esta:</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">COMMAND   PID     USER FD TYPE DEVICE SIZE/OFF NODE NAME
+hugo    28013 atmosmps 9u IPv4 141117      0t0  TCP localhost:xtel (LISTEN)
+</code></pre></div><p>Com isto você pode identificar quem está usando a porta finalizar o processo, ou você pode simplesmente matar o processo da seguinte maneira: <code>kill -9 PID</code>.</p>
+<p><strong>O que significa lsof?</strong></p>
+<p><code>lsof</code> siginifica <em>List Of Open File</em>. Arquivos são muito importantes no Unix, toda vez que estiver trabalhando no Linux/Unix poderá haver vários arquivos e pastas que estarão sendo utilizadas. Este comando fornece uma lista de arquivos que estão abertos. Basicamente, fornece as informações para descobrir os arquivos que estão abertos e por qual processo. De uma só vez, lista todos os arquivos abertos no console de saída.</p>
+<p>Aqui você encontra mais informações sobre o <a href="https://www.geeksforgeeks.org/lsof-command-in-linux-with-examples/">lsof e formas de utilizá-lo</a>.</p>
+<p>É isso.</p>
+
+      </div>
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "atmosmaciel" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+      <p>I think you know what the problem is just as well as I do.</p>
+    
+     © 2020
+    
+       · 
+      Promovido por <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+
+  </body>
+
+</html>

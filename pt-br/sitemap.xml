@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://atmosmps.github.io/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/blog/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/categories/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,12 +33,62 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</loc>
+    <loc>https://atmosmps.github.io/categories/configs/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/linux/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/linux/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/personal/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/blog/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/configs/</loc>
+    <loc>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,32 +113,7 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/linux/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/categories/linux/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/posts/meu-guia-definitivo-de-ambientacao-python/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/tags/personal/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/tags/php/</loc>
+    <loc>https://atmosmps.github.io/posts/my-definitive-python-setting-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/</loc>
+    <loc>https://atmosmps.github.io/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,21 +140,6 @@
   <url>
     <loc>https://atmosmps.github.io/posts/remote-work-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
-                />
   </url>
   
   <url>
