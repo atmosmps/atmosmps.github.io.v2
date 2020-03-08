@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://atmosmps.github.io/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/categories/blog/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/categories/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,12 +38,42 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/containers/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <loc>https://atmosmps.github.io/posts/i-sold-my-reading-time/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/personal/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/posts/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/tags/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/tags/"
+                />
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/containers/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/containers/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/tags/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -73,27 +103,7 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/categories/configs/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,23 +113,18 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
+    <loc>https://atmosmps.github.io/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/personal/</loc>
+    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmosmps.github.io/categories/blog/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/git/</loc>
+    <loc>https://atmosmps.github.io/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/git/</loc>
+    <loc>https://atmosmps.github.io/categories/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,22 +158,22 @@
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/php/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosmps.github.io/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/python/</loc>
+    <loc>https://atmosmps.github.io/categories/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/python/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/categories/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
