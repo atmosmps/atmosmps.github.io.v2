@@ -198,6 +198,36 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/samples/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/samples/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/samples/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/samples/snippets/second/</loc>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -209,6 +239,14 @@
                 hreflang="pt-br"
                 href="https://atmosmps.github.io/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/samples/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atmosmps.github.io/samples/about/</loc>
   </url>
   
   <url>

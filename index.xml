@@ -122,6 +122,55 @@ Como eu não fico gravando este tipo de coisa e toda vez eu preciso ficar &amp;l
     </item>
     
     <item>
+      <title>Contato</title>
+      <link>https://atmosmps.github.io/samples/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/samples/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>https://atmosmps.github.io/samples/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/samples/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://atmosmps.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/projects/</guid>
+      <description>Projetos --   Title to projetct with a descripition link #tags #python #php #system #library #doc #docker
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  Title to projetct with a descripition link #tags #python #php #system #library #doc #docker</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>https://atmosmps.github.io/samples/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/samples/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>https://atmosmps.github.io/samples/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/samples/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
       <title>Sobre mim</title>
       <link>https://atmosmps.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

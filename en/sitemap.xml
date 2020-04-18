@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>https://atmosmps.github.io/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://atmosmps.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosmps.github.io/en/projects/"
+                />
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"

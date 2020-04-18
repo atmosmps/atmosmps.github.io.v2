@@ -21,5 +21,16 @@
 About Me I am a Database Administrator at Ceuma Group, Co-founder / CTO of Impacto Maker and Full Stack Developer. Bachelor of Computer Science from Pitágoras College, Digital Games Programming Technician from UEMANET, member of the PHP Maranhão community and other State Technology communities. &amp;ldquo;Flirting&amp;rdquo; with DevOps, Machine Learning, Data Science and Digital Game Development.</description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://atmosmps.github.io/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/en/projects/</guid>
+      <description>Projetos --   Title to projetct with a descripition link #tags #python #php #system #library #doc #docker
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  Title to projetct with a descripition link #tags #python #php #system #library #doc #docker</description>
+    </item>
+    
   </channel>
 </rss>
