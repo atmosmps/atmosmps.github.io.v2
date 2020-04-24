@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://atmosmps.github.io/posts/30-days-of-quarantine/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosmps.github.io/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,12 +24,12 @@
   
   <url>
     <loc>https://atmosmps.github.io/categories/blog/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/categories/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,17 +44,17 @@
   
   <url>
     <loc>https://atmosmps.github.io/tags/personal/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/posts/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmosmps.github.io/tags/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
