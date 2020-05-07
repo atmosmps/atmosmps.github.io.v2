@@ -10,26 +10,26 @@
     <meta name="keywords" content="technology, developer, science, books, music, astronomy, runnig, fight">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Como instalar o Spotify em algumas distros Linux"/>
-<meta name="twitter:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..."/>
+<meta name="twitter:title" content="Como limpar recursos (não utilizados) do Docker"/>
+<meta name="twitter:description" content="Fazendo limpeza de recursos do docker sem stress."/>
 
-    <meta property="og:title" content="Como instalar o Spotify em algumas distros Linux" />
-<meta property="og:description" content="Coisas simples e chatas que precisam ser feitas de vez em quando..." />
+    <meta property="og:title" content="Como limpar recursos (não utilizados) do Docker" />
+<meta property="og:description" content="Fazendo limpeza de recursos do docker sem stress." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/" />
-<meta property="article:published_time" content="2020-01-06T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-01-06T00:00:00+00:00" /><meta property="og:site_name" content="Atmos Maciel" />
+<meta property="og:url" content="https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/" />
+<meta property="article:published_time" content="2020-05-07T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-05-07T00:00:00+00:00" /><meta property="og:site_name" content="Atmos Maciel" />
 
 
     
-      <base href="https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/">
+      <base href="https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/">
     
     <title>
-  Como instalar o Spotify em algumas distros Linux · Atmos Maciel
+  Como limpar recursos (não utilizados) do Docker · Atmos Maciel
 </title>
 
     
-      <link rel="canonical" href="https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/">
+      <link rel="canonical" href="https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/">
     
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
@@ -113,14 +113,14 @@
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">Como instalar o Spotify em algumas distros Linux</h1>
+          <h1 class="title">Como limpar recursos (não utilizados) do Docker</h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
               <i class="fas fa-calendar"></i>
-              <time datetime='2020-01-06T00:00:00Z'>
-                January 6, 2020
+              <time datetime='2020-05-07T00:00:00Z'>
+                May 7, 2020
               </time>
             </span>
             <span class="reading-time">
@@ -130,30 +130,23 @@
           </div>
           <div class="categories">
   <i class="fas fa-folder"></i>
-    <a href="https://atmosmps.github.io/categories/configs/">configs</a>
+    <a href="https://atmosmps.github.io/categories/docker/">docker</a>
       <span class="separator">•</span>
-    <a href="https://atmosmps.github.io/categories/linux/">linux</a></div>
+    <a href="https://atmosmps.github.io/categories/containers/">containers</a></div>
 
           <div class="tags">
   <i class="fas fa-tag"></i>
-    <a href="https://atmosmps.github.io/tags/personal/">personal</a>
+    <a href="https://atmosmps.github.io/tags/docker/">docker</a>
       <span class="separator">•</span>
-    <a href="https://atmosmps.github.io/tags/me-to-me/">me-to-me</a>
-      <span class="separator">•</span>
-    <a href="https://atmosmps.github.io/tags/linux/">linux</a></div>
+    <a href="https://atmosmps.github.io/tags/containers/">containers</a></div>
 
         </div>
       </header>
 
       <div>
         
-        <p>Eu não consigo trabalhar não escutando um bom som. Pra isso eu uso o <a href="https://www.spotify.com/">Spotify</a>. Para instalar qualquer coisa eu sempre, sempre prefiro utilizar a documentação oficial, e pra minha sorte, todas as distros que eu uso, testo ou pretendo usar possuem em suas documentações as formas e recomendações para instalar as coisas da forma como devem ser feitas, e isto inclue o Spotify também. :)</p>
-<h4 id="para-instalar-no-debianubuntu">Para instalar no Debian/Ubuntu</h4>
-<p>O próprio Spotify diz como: <a href="https://www.spotify.com/us/download/linux/">https://www.spotify.com/us/download/linux/</a>.</p>
-<h4 id="para-instalar-no-fedora">Para instalar no Fedora</h4>
-<p>3 formas para usar, somente no fedora: <a href="https://docs.fedoraproject.org/en-US/quick-docs/installing-spotify/index.html">https://docs.fedoraproject.org/en-US/quick-docs/installing-spotify/index.html</a>. :)</p>
-<h4 id="para-instalar-no-archlinux">Para instalar no Archlinux</h4>
-<p>Detalhado e bem explicado: <a href="https://wiki.archlinux.org/index.php/Spotify">https://wiki.archlinux.org/index.php/Spotify</a>.</p>
+        <p>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&hellip; podem deixar &ldquo;coisas que não estão sendo mais usadas&rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&hellip; em fim. Pensando nisso que criei este <em>doc</em> que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:</p>
+<p><a href="https://github.com/atmosmps/docker-pack-tools/blob/master/docker-cleanup-resources.md">Docker - How to cleanup (unused) resources</a></p>
 <p>É isto.</p>
 
       </div>

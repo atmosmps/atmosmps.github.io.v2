@@ -6,10 +6,20 @@
     <description>Recent content in docker on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosmps.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Como limpar recursos (não utilizados) do Docker</title>
+      <link>https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/</guid>
+      <description>Se estiver mexendo com o Docker, seja em uma máquina local ou servidor, depois de algum tempo as alterações, manutenções, modificações, atualizações, etc&amp;hellip; podem deixar &amp;ldquo;coisas que não estão sendo mais usadas&amp;rdquo; ainda no host. Images antigas, volumes não usados, redes inativas, containers parados&amp;hellip; em fim. Pensando nisso que criei este doc que pode ajudar nos momentos em que for preciso realizar essas pequenas manutenções:
+Docker - How to cleanup (unused) resources</description>
+    </item>
     
     <item>
       <title>Dockerizando uma aplicação React JS</title>
