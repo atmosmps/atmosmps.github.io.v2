@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atmosmps.github.io/en/about/</loc>
+    <loc>https://atmosmaciel.dev/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/about/"
+                href="https://atmosmaciel.dev/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/about/"
+                href="https://atmosmaciel.dev/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/en/</loc>
+    <loc>https://atmosmaciel.dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/"
+                href="https://atmosmaciel.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/"
+                href="https://atmosmaciel.dev/en/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/en/categories/</loc>
+    <loc>https://atmosmaciel.dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/categories/"
+                href="https://atmosmaciel.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/categories/"
+                href="https://atmosmaciel.dev/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/en/projects/</loc>
+    <loc>https://atmosmaciel.dev/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/projects/"
+                href="https://atmosmaciel.dev/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/projects/"
+                href="https://atmosmaciel.dev/en/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/en/series/</loc>
+    <loc>https://atmosmaciel.dev/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/series/"
+                href="https://atmosmaciel.dev/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/series/"
+                href="https://atmosmaciel.dev/en/series/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/en/tags/</loc>
+    <loc>https://atmosmaciel.dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
+                href="https://atmosmaciel.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
+                href="https://atmosmaciel.dev/en/tags/"
                 />
   </url>
   

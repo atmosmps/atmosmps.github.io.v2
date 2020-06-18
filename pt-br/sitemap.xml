@@ -3,273 +3,273 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atmosmps.github.io/</loc>
+    <loc>https://atmosmaciel.dev/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/"
+                href="https://atmosmaciel.dev/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/"
+                href="https://atmosmaciel.dev/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/</loc>
+    <loc>https://atmosmaciel.dev/categories/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/categories/"
+                href="https://atmosmaciel.dev/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/categories/"
+                href="https://atmosmaciel.dev/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/docker-how-to-cleanup-unused-resources/</loc>
+    <loc>https://atmosmaciel.dev/posts/docker-how-to-cleanup-unused-resources/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/containers/</loc>
+    <loc>https://atmosmaciel.dev/tags/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/containers/</loc>
+    <loc>https://atmosmaciel.dev/categories/containers/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/docker/</loc>
+    <loc>https://atmosmaciel.dev/tags/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/docker/</loc>
+    <loc>https://atmosmaciel.dev/categories/docker/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/</loc>
+    <loc>https://atmosmaciel.dev/posts/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/</loc>
+    <loc>https://atmosmaciel.dev/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/tags/"
+                href="https://atmosmaciel.dev/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/tags/"
+                href="https://atmosmaciel.dev/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/30-days-of-quarantine/</loc>
+    <loc>https://atmosmaciel.dev/posts/30-days-of-quarantine/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/blog/</loc>
+    <loc>https://atmosmaciel.dev/categories/blog/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/personal/</loc>
+    <loc>https://atmosmaciel.dev/tags/personal/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/remote-work-quarantine-and-projects/</loc>
+    <loc>https://atmosmaciel.dev/posts/remote-work-quarantine-and-projects/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/i-sold-my-reading-time/</loc>
+    <loc>https://atmosmaciel.dev/posts/i-sold-my-reading-time/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/docking-a-reactjs-application/</loc>
+    <loc>https://atmosmaciel.dev/posts/docking-a-reactjs-application/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/reactjs/</loc>
+    <loc>https://atmosmaciel.dev/tags/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/reactjs/</loc>
+    <loc>https://atmosmaciel.dev/categories/reactjs/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/configs/</loc>
+    <loc>https://atmosmaciel.dev/categories/configs/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/linux/</loc>
+    <loc>https://atmosmaciel.dev/tags/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/linux/</loc>
+    <loc>https://atmosmaciel.dev/categories/linux/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/me-to-me/</loc>
+    <loc>https://atmosmaciel.dev/tags/me-to-me/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
+    <loc>https://atmosmaciel.dev/posts/checking-if-a-particular-port-is-in-use-on-your-operating-system/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/how-to-install-spotify-on-some-linux-distros/</loc>
+    <loc>https://atmosmaciel.dev/posts/how-to-install-spotify-on-some-linux-distros/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/configure-git-to-use-a-proxy/</loc>
+    <loc>https://atmosmaciel.dev/posts/configure-git-to-use-a-proxy/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/git/</loc>
+    <loc>https://atmosmaciel.dev/tags/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/git/</loc>
+    <loc>https://atmosmaciel.dev/categories/git/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/installing-php-on-debian-based-linux-distributions/</loc>
+    <loc>https://atmosmaciel.dev/posts/installing-php-on-debian-based-linux-distributions/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/my-definitive-python-setting-guide/</loc>
+    <loc>https://atmosmaciel.dev/posts/my-definitive-python-setting-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/php/</loc>
+    <loc>https://atmosmaciel.dev/tags/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/php/</loc>
+    <loc>https://atmosmaciel.dev/categories/php/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/tags/python/</loc>
+    <loc>https://atmosmaciel.dev/tags/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/categories/python/</loc>
+    <loc>https://atmosmaciel.dev/categories/python/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/remote-work-guide/</loc>
+    <loc>https://atmosmaciel.dev/posts/remote-work-guide/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
+    <loc>https://atmosmaciel.dev/posts/configure-proxy-settings-in-ubuntu-and-fedora/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/posts/hello-world-2020/</loc>
+    <loc>https://atmosmaciel.dev/posts/hello-world-2020/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/contact/</loc>
+    <loc>https://atmosmaciel.dev/samples/contact/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/snippets/first/</loc>
+    <loc>https://atmosmaciel.dev/samples/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/projects/</loc>
+    <loc>https://atmosmaciel.dev/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/projects/"
+                href="https://atmosmaciel.dev/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/projects/"
+                href="https://atmosmaciel.dev/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/</loc>
+    <loc>https://atmosmaciel.dev/samples/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/snippets/second/</loc>
+    <loc>https://atmosmaciel.dev/samples/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/series/</loc>
+    <loc>https://atmosmaciel.dev/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/series/"
+                href="https://atmosmaciel.dev/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/series/"
+                href="https://atmosmaciel.dev/series/"
                 />
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/snippets/</loc>
+    <loc>https://atmosmaciel.dev/samples/snippets/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/samples/about/</loc>
+    <loc>https://atmosmaciel.dev/samples/about/</loc>
   </url>
   
   <url>
-    <loc>https://atmosmps.github.io/about/</loc>
+    <loc>https://atmosmaciel.dev/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atmosmps.github.io/en/about/"
+                href="https://atmosmaciel.dev/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://atmosmps.github.io/about/"
+                href="https://atmosmaciel.dev/about/"
                 />
   </url>
   

@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Atmos Maciel</title>
-    <link>https://atmosmps.github.io/categories/</link>
+    <link>https://atmosmaciel.dev/categories/</link>
     <description>Recent content in Categories on Atmos Maciel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://atmosmps.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosmaciel.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>containers</title>
-      <link>https://atmosmps.github.io/categories/containers/</link>
+      <link>https://atmosmaciel.dev/categories/containers/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/containers/</guid>
+      <guid>https://atmosmaciel.dev/categories/containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>https://atmosmps.github.io/categories/docker/</link>
+      <link>https://atmosmaciel.dev/categories/docker/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/docker/</guid>
+      <guid>https://atmosmaciel.dev/categories/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://atmosmps.github.io/categories/blog/</link>
+      <link>https://atmosmaciel.dev/categories/blog/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/blog/</guid>
+      <guid>https://atmosmaciel.dev/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactjs</title>
-      <link>https://atmosmps.github.io/categories/reactjs/</link>
+      <link>https://atmosmaciel.dev/categories/reactjs/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/reactjs/</guid>
+      <guid>https://atmosmaciel.dev/categories/reactjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configs</title>
-      <link>https://atmosmps.github.io/categories/configs/</link>
+      <link>https://atmosmaciel.dev/categories/configs/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/configs/</guid>
+      <guid>https://atmosmaciel.dev/categories/configs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://atmosmps.github.io/categories/linux/</link>
+      <link>https://atmosmaciel.dev/categories/linux/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/linux/</guid>
+      <guid>https://atmosmaciel.dev/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://atmosmps.github.io/categories/git/</link>
+      <link>https://atmosmaciel.dev/categories/git/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/git/</guid>
+      <guid>https://atmosmaciel.dev/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://atmosmps.github.io/categories/php/</link>
+      <link>https://atmosmaciel.dev/categories/php/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/php/</guid>
+      <guid>https://atmosmaciel.dev/categories/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://atmosmps.github.io/categories/python/</link>
+      <link>https://atmosmaciel.dev/categories/python/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://atmosmps.github.io/categories/python/</guid>
+      <guid>https://atmosmaciel.dev/categories/python/</guid>
       <description></description>
     </item>
     
